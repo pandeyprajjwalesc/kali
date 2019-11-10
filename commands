@@ -9,3 +9,6 @@ a)  whoami
    
    
 3) su newuser   //// change from existing user to newuser
+
+
+4) apt-get install libreoffice   //// install libreoffice
