@@ -1,2 +1,11 @@
 1) nm-connection-editor   --->>  +  --->>. wifi  then click create   ---->>   ssid == mywifiname ,  mode == hotspot ,---->> wifi-security => personal , enter password --->> save it .
 ///// now your hotspot is active.
+
+
+a)  whoami
+
+2) adduser newuser   ///// create new user
+   passwd username  ////// set password for new user
+   
+   
+3) su newuser   //// change from existing user to newuser
