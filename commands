@@ -12,3 +12,6 @@ a)  whoami
 
 
 4) apt-get install libreoffice   //// install libreoffice
+
+
+5) service bluetooth restart   
