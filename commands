@@ -22,3 +22,9 @@ a)  whoami
             apt install ./google-chrome-stable_current_amd64.deb
           
    Launch : google-chrome --no-sandbox
+   
+   
+   
+
+
+7)Bluetooth       :            sudo systemctl start bluetooth.service or  service bluetooth restart ==> now go to bluetooth window and connect device
