@@ -41,3 +41,5 @@ a)  whoami
 
 
 11) deleting files : https://www.tecmint.com/delete-all-files-in-directory-except-one-few-file-extensions/
+
+12) rm -r !(pdfs)
