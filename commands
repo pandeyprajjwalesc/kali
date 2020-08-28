@@ -28,3 +28,16 @@ a)  whoami
 
 
 7)Bluetooth       :            sudo systemctl start bluetooth.service or  service bluetooth restart ==> now go to bluetooth window and connect device
+
+
+
+8) apt-get clean : perform cleaning operation on disk
+
+9) fdisk -l 
+
+10)   for converting text interface to gui
+      systemctl start display-manager.service 
+      systemctl set-default graphical.target
+
+
+11) 
