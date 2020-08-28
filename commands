@@ -40,4 +40,4 @@ a)  whoami
       systemctl set-default graphical.target
 
 
-11) 
+11) deleting files : https://www.tecmint.com/delete-all-files-in-directory-except-one-few-file-extensions/
