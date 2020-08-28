@@ -54,4 +54,6 @@ a)  whoami
 
 16) regex :  rm -r *der  /// remove all folder ending with der
              rm *ile     /// remove all file ending eith ile
+             rm -r fol*  /// remove all folder satrting with fol
+             rm -r *old*  // removbe all folder whose name consists 'old'
              same applied with mv , cp, cd|
