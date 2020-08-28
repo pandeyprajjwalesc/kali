@@ -43,3 +43,8 @@ a)  whoami
 11) deleting files : https://www.tecmint.com/delete-all-files-in-directory-except-one-few-file-extensions/
 
 12) rm -r !(pdfs)
+
+13) recover deleted things :  https://www.kalilinux.in/2019/09/foremost-kali-linux-recover-deleted-files.html
+
+
+14) deleting multiple files : https://linuxize.com/post/how-to-remove-files-and-directories-using-linux-command-line/    ==>> rm -r dir1 dir2 dir3 
